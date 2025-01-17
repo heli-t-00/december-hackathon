@@ -29,17 +29,6 @@
 
 ---
 
-## CONTROLS AND GAME RULES
-### How to play
-
-- 🎄 
-- 🎄  
-- 🎄  
-- 🎄   
-
----
-
-
 ## **🌟 FEATURES**  
 
 - 🎁 Header 
